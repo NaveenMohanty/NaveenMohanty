@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NaveenMohanty
+- 👀 I’m interested in Web Dev, MERN stack
+- 🌱 I’m Wroking as a React JS developer
